@@ -1,0 +1,6 @@
+id=iptables_strict
+name=iptables_strict
+version=1.0
+versionCode=1
+author=Vuong Kha Sieu
+description=Block all incoming connection to the device
